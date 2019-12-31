@@ -30,4 +30,4 @@ CreditCardValidate(credit_card)
 if total % 10 == 0:
     print('Valid Credit Card')
 else:
-    print('Invalid Card')
+    print('Invalid Credit Card')
